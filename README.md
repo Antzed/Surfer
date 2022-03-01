@@ -5,3 +5,11 @@ This project is inspired by the need for decentralized entertainment. It aims to
 
 ## Web archive
 - https://web.archive.org/
+
+## Educational
+- https://neal.fun/deep-sea/
+- https://ncase.me/trust/
+
+## Weird
+- https://presidentialham.com/
+- http://endless.horse/
